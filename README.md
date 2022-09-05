@@ -1,3 +1,3 @@
 # frida-scripts
 Leak Scripts
-Script For 28
+V28 script sucking for SB sucking Lwitchy
